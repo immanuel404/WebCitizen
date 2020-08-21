@@ -1,8 +1,8 @@
 # WebCitizen
-The WebCitizen Freelance Website
+The WebCitizen Freelance Website code_HTML& CSS.
 
 link to Website: https://webcitizen.github.io/webcitizen/
 
-New WEBSITE _REACT.js: http://webcitizen.epizy.com/
+NEW_REACT_WEBSITE: http://webcitizen.epizy.com/
 
 ![](img/citizen.png)
